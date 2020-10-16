@@ -4,3 +4,5 @@ web/migrations/
 web/migrations
 env
 env/
+/env
+/env/
