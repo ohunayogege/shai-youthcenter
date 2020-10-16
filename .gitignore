@@ -1,0 +1,6 @@
+.env
+db.sqlite3
+web/migrations/
+web/migrations
+env
+env/
